@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+.ob1,.ob2{
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    padding:2rem;
+    flex-wrap: wrap;
+}
+.in{
+    height: 150px;
+    width: 150px;
+    border: 8px solid black;
+    border-radius: 1.25rem;
+    margin-left: 2em;;
+}
+
+#red{
+    background-color: red;
+}
+
+#green{
+    background-color: green;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color: yellow;
+}
+.flash{
+    background-color: white;
+}
